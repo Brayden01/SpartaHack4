@@ -19,3 +19,8 @@ C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\bin\Deb
 C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\SpartaHacks4.Form1.resources
 C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\SpartaHacks4.Properties.Resources.resources
 C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\SpartaHacks4.csproj.GenerateResource.Cache
+C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\Interop.WMPDXMLib.dll
+C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\Interop.WMPLauncher.dll
+C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jason Tran\Desktop\SpartaHack4-master\SpartaHacks4\SpartaHacks4\obj\x86\Debug\SpartaHacks4.csproj.ResolveComReference.cache
