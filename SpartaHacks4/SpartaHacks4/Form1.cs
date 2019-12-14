@@ -67,8 +67,8 @@ namespace SpartaHacks4
             e.Graphics.DrawImage(Properties.Resources.Clouds, rCloud1);
             e.Graphics.DrawImage(Properties.Resources.Clouds, rCloud2);
             //Draws Start/Chatbot buttons
-            e.Graphics.DrawRectangle(Pens.Black, rStartButton);
-            e.Graphics.DrawRectangle(Pens.Black, rChatbot);
+            e.Graphics.DrawImage(Properties.Resources.PlayButton, rStartButton);
+            e.Graphics.DrawImage(Properties.Resources.ChatButton, rChatbot);
             #endregion
 
         }
