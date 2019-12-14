@@ -1,0 +1,7 @@
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.exe
+C:\Users\brayd\Documents\Visual Studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.pdb
