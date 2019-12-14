@@ -75,7 +75,9 @@ namespace SpartaHacks4
 
         Rectangle rBG = new Rectangle();
         #endregion
-
+        #region Journal
+        bool Journal;
+        #endregion
 
         public Form1()
         {
@@ -170,6 +172,16 @@ namespace SpartaHacks4
 
             }
             #endregion
+            #region journal
+            if (Journal == true)
+            {
+                textBox2.Visible = true;
+            }
+            else if (Journal == false)
+            {
+                textBox2.Visible = false;
+            }
+            #endregion
 
             this.Refresh();
         }
@@ -233,6 +245,10 @@ namespace SpartaHacks4
                 e.Graphics.DrawImage(Properties.Resources.MusicText, 0, 450, 1024, 576);
             }
             #endregion
+            #region TEXTBOX
+            if (Journal == true){
+            e.Graphics.DrawImage(Properties.Resources.MusicBG, 0, 0, 1024, 576);}
+            #endregion
         }
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
@@ -245,7 +261,8 @@ namespace SpartaHacks4
                 {
                     play = true;
                     meditation = false;
-                    music = true;
+                    music = false;
+                    Journal = true;
                 }
 
                 if (rChatbot.Contains(e.Location))
